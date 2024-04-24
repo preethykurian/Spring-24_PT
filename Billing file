@@ -1,0 +1,2 @@
+read price 1, price 2, price 3
+sum=price1+price2+price 3
